@@ -4,7 +4,7 @@ author: "pizzalover125"
 description: "A 6-port USB-C hub. "
 created_at: "2025-07-26"
 ---
-
+Hours Spent: 3 
 ## 7/26/25
 Today, I speedran this USB hub. I originally wanted an 8 port hub, but that would have required 3 daisy chained hub controllers, which would be terrible for speed. I settled for 6 (even though I could have fit in 6). I started off with the schematic. I used the chip from the USB Hub made by @msw in that one HC workshop. Around an hour later, I had this:
 <img width="944" height="665" alt="image" src="https://github.com/user-attachments/assets/9a22b215-918f-4333-b935-8f1b76a5f0e3" />
